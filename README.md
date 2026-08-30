@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshil1408/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/darshil1408/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/darshil1408/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/darshil1408/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/darshil1408/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/darshil1408/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/darshil1408/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/darshil1408/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
