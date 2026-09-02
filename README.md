@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/darshil1408/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0492-construct-the-rectangle](https://github.com/darshil1408/LeetCode-Questions/tree/master/0492-construct-the-rectangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/darshil1408/LeetCode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/darshil1408/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/darshil1408/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/darshil1408/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/darshil1408/LeetCode-Questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
